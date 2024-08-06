@@ -8,11 +8,9 @@ benchmarks are unrealistic. Our proposed Animal-Bench (right) includes diverse a
 various realistic scenarios, and encompasses 13 different tasks.
 
 **Effectiveness evaluation results:**
-
 <img width="871" alt="image" src="https://github.com/user-attachments/assets/64f20462-ff78-453f-8953-a3b9d70d24fb">
 
 **Robustness evaluation results：**
-
 <img width="861" alt="image" src="https://github.com/user-attachments/assets/6c2dd505-2f16-471b-ae2f-e76d89eed613">
 
 We will release our data and code SOON！
